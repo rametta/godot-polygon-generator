@@ -1,4 +1,4 @@
-# Godot Polygon Generator
+# 🍄 Godot Polygon Generator
 
 A polygon generator tool for Godot to create simple shapes using **S-Curves**.
 
